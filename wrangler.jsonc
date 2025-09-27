@@ -5,5 +5,12 @@
   "pages_build_output_dir": "./dist",
   "compatibility_flags": [
     "nodejs_compat"
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "legal-case-management-production",
+      "database_id": "fdeaca1f-4803-494b-9993-a2136357bb62"
+    }
   ]
 }
